@@ -1,4 +1,0 @@
-Sitemap: https://ossremoties.org/sitemapindex.xml
-
-User-Agent: *
-Host: ossremoties.org
